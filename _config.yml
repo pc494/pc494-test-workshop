@@ -8,7 +8,8 @@ instructor_emails: []
 helpers: []
 start_times:
   - 09|00
-setup_files: []
+setup_files:
+  - editor
 language: en
 venue: The Medical Research Council Biostatistcs Unit at the University of Cambridge
 address: null
