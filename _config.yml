@@ -1,15 +1,16 @@
 ---
-workshop_id: 
-topic: preregistration
-title: 
-instructors: []
+workshop_id: PC_BSC_OCS_20220210_01
+topic: open-code
+title: Getting started with git(hub) - why and how.
+instructors:
+  - Phillip Crout
 instructor_emails: []
 helpers: []
 start_times:
   - 09|00
 setup_files: []
 language: en
-venue: null
+venue: The Medical Research Council Biostatistcs Unit at the University of Cambridge
 address: null
 country: null
 latitude: null
@@ -19,7 +20,6 @@ collaborative_notes: null
 eventbrite: null
 optional_intro_sections:
   - requirements
-  - accessibility
 kind: workshop
 ukrn_email: training@ukrn.org
 ukrn_site: https://ukrn.org/
